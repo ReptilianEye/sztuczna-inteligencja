@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 data
+adult.data*
+DS_Store
